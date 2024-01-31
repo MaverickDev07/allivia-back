@@ -1,0 +1,6 @@
+export { default as iziRouter } from './izi'
+export { default as exampleRouter } from './example'
+export { default as tipoAlimentosRouter } from './tipoAlimentos'
+export { default as AlimentosRouter } from './alimentos'
+export { default as ListaPlatosRouter } from './listaPlatos'
+export { default as NutricionRouter } from './nutricion'

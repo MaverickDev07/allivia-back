@@ -1,0 +1,6 @@
+export { default as IziService } from './izi'
+export { default as ExampleService } from './example'
+export { default as TipoAlimentosService } from './tipoAlimentos'
+export { default as AlimentosService } from './alimentos'
+export { default as ListaPlatosService } from './listaPlatos'
+export { default as NutricionService } from './nutricion'
